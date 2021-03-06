@@ -11,7 +11,7 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sanm-zh&show_icons=true&theme=calm&line_height=40&hide_border=true&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanm-zh&theme=calm&hide_border=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=sanm-zh&show_icons=true&theme=vue&line_height=40&hide_border=true&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanm-zh&theme=vue&hide_border=true">
 </p>
 </details>
