@@ -12,6 +12,6 @@
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sanm-zh&show_icons=true&theme=vue&line_height=40&hide_border=true&count_private=true" height="240" width="436" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanm-zh&theme=vue&layout=compact&langs_count=10&hide_border=true" height="240" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanm-zh&theme=vue&layout=compact&langs_count=8&hide_border=true" height="240" />
 </p>
 </details>
