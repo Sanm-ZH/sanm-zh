@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [ShenZhen](#).
 - 👨‍💻 Responsible for the company's Web front-end development.
-- 🎮 Hobby: code & RPG
+- 🎮 Hobby: code & JRPG/RPG
 - 👋 My personal [blog site](https://sanm-zh.gitee.io) or [blog site](https://sanm-zh.github.io)
 
 ---
