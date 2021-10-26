@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on [ShenZhen](#).
 - 👨‍💻 Responsible for the company's Web front-end development.
-- 🎮 Hobby: code & JRPG/RPG
-- 👋 My personal [blog site](https://sanm-zh.gitee.io) or [blog site](https://sanm-zh.github.io)
+- 🎮 Hobby: Code & JRPG/RPG
+- 👋 My personal [blog](https://sanm-zh.gitee.io) or [blog](https://sanm-zh.github.io)
 
 ---
 
@@ -11,7 +11,7 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sanm-zh&show_icons=true&theme=vue&line_height=40&hide_border=true&count_private=true" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=sanm-zh&show_icons=true&theme=vue&line_height=38&hide_border=true&count_private=true" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanm-zh&theme=vue&layout=compact&langs_count=10&hide_border=true" align="top" />
 </p>
 </details>
