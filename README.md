@@ -1,9 +1,9 @@
 ### Hi there, I'm [sanmzh](https://github.com/sanm-zh)! 👋
 
-- 🔭  I’m currently working on [ShenZhen](#).
-- 👨‍💻  Responsible for the company's Web front-end development.
-- 🎮  Hobby: Code & JRPG/RPG
-- 👋  My personal [blog](https://sanm-zh.gitee.io) or [blog](https://sanm-zh.github.io)
+- 🔭 &nbsp;I’m currently working on [ShenZhen](#).
+- 👨‍💻 &nbsp;Responsible for the company's Web front-end development.
+- 🎮 &nbsp;Hobby: Code & JRPG/RPG
+- 👋 &nbsp;My personal [blog](https://sanm-zh.gitee.io) or [blog](https://sanm-zh.github.io)
 
 ---
 
